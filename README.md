@@ -13,3 +13,5 @@
 [Link Labirinto:](https://github.com/RaquelOliveira0/ED-2018.1/blob/master/05_labirinto_pilha/README.md)
 
 [Link Lista:](https://github.com/RaquelOliveira0/ED-2018.1/blob/master/06_Lista_Ligada/relatorio_lista)
+
+[Link Editor:](https://github.com/RaquelOliveira0/ED-2018.1/blob/master/07-editor/README.md)
