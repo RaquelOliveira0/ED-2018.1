@@ -15,3 +15,5 @@
 [Link Lista:](https://github.com/RaquelOliveira0/ED-2018.1/blob/master/06_Lista_Ligada/relatorio_lista)
 
 [Link Editor:](https://github.com/RaquelOliveira0/ED-2018.1/blob/master/07-editor/README.md)
+
+[Link Ordenação:](https://github.com/RaquelOliveira0/ED-2018.1/blob/master/08-ordenacaoalgoritmos/README.md)
